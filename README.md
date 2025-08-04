@@ -46,7 +46,7 @@
 
 ## 💻 Tecnologias e linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,mysql,postgres)](https://skillicons.dev)

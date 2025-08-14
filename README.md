@@ -49,7 +49,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,docker,java)](https://skillicons.dev)
 
 ### 🚀 Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,nextjs,mysql,postgres)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,wordpress)](https://skillicons.dev)

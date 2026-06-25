@@ -14,8 +14,6 @@
 
 ---
 
-<h3 align="left">🛠 Tecnologias, Frameworks e bibliotecas </h3>
-
 ###
 <div align="center">
   <table>

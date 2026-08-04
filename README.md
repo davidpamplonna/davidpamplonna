@@ -12,7 +12,6 @@
   Atualmente atuo como <strong>Desenvolvedor Front-End</strong>, com foco em <strong>React</strong> e <strong>Node.js</strong>, transformando cada aprendizado em projetos reais e impactantes ao longo da minha jornada profissional.
 </p>
 
----
 
 ###
 <div align="center">
@@ -26,6 +25,39 @@
       <td align="center"><b>DevOps</b><br><img src="https://skillicons.dev/icons?i=docker,git,vercel,vscode" /></td>
     </tr>
   </table>
+</div>
+
+
+# Projetos em Destaque
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+<a href="https://techsummit-nu.vercel.app/">
+<img src="https://davidpamplona.vercel.app/_next/image?url=%2Fimage%2Fposts%2Ftechsummit%2Fimg1.png&w=750&q=75" width="100%" alt="TechSummit 2025"/>
+</a>
+<br>
+<b>TechSummit 2025</b>
+<br>
+<!-- <a href="https://techsummit-nu.vercel.app/">Ver o  site</a> -->
+</td>
+
+<td width="50%" align="center">
+<a href="https://portal-cm.vercel.app/">
+<img src="https://davidpamplona.vercel.app/_next/image?url=%2Fimage%2Fposts%2Fcm-libertalia%2Fimg1.png&w=640&q=75" width="100%" alt="Câmara Municipal de Libertália"/>
+</a>
+<br>
+<b>Câmara Municipal de Libertália</b>
+<br>
+ <!-- <a href="https://portal-cm.vercel.app/">Ver o  site</a> -->
+</td>
+</tr>
+
+</table>
+
 </div>
 
 ---

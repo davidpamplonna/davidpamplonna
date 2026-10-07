@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://davidpamplona.vercel.app/">
-    <img src="https://media.licdn.com/dms/image/v2/D4D16AQFZ6qelDChiKg/profile-displaybackgroundimage-shrink_350_1400/B4DZ.vbyKrIsAU-/0/1785354724284?e=1790812800&v=beta&t=Oni_zjA1uwF8SczBQ8Az6ve7sTsfyNMKH7RRDJtBswE" alt="Meu Banner" width="100%">
+    <img src="https://media.licdn.com/dms/image/v2/D4D16AQFZ6qelDChiKg/profile-displaybackgroundimage-shrink_350_1400/B4DZ.vbyKrIsAU-/0/1785354724284?e=1793232000&v=beta&t=2-XbK4GDayfr_HATKA-ZOs6KAaNiZz8aIKpMPMWmgSI" alt="Meu Banner" width="100%">
   </a>
 </div>
 
